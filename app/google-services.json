@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81938546338",
+    "project_id": "projexify-ebc51",
+    "storage_bucket": "projexify-ebc51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81938546338:android:eae88af87c0c3f4a3fe1fb",
+        "android_client_info": {
+          "package_name": "com.example.projexify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Kf4KwjbrrfQD7FHCpDtaL57isbt_Iww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
