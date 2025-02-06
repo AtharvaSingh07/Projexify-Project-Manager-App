@@ -4,6 +4,7 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+<<<<<<< HEAD
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -14,6 +15,17 @@
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
+=======
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Projexify-Project-Manager-App-master" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Projexify-Project-Manager-App-master" />
+            <option value="$PROJECT_DIR$/Projexify-Project-Manager-App-master/app" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+>>>>>>> 531bcbd (Initial Commit)
       </GradleProjectSettings>
     </option>
   </component>
